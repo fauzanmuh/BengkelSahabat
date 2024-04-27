@@ -2,9 +2,8 @@ AOS.init();
 
 new Typed("#typed", {
     strings: [
-        "Food Make Happiness",
-        "Fresh Ingredients Every Day",
-        "HANDMADE WITH AN EXTRA PINCH OF LOVE",
+        "Kepuasan dan kepercayaan pelanggan adalah prioritas utama kami", 
+        "Serta meningkatan muttu dan kualitas adalah tanggung jawab kami",
     ],
     typeSpeed: 100,
     delaySpeed: 300,
