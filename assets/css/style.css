@@ -230,7 +230,7 @@ body {
 
 .area-visi .main-carousel {
     width: 500px;
-    height: 800px;
+    height: 850px;
 }
 
 .visi-kiri {
@@ -289,7 +289,7 @@ body {
 }
 
 .box-menu img {
-    width: 260px;
+    width: 220px;
     height: 260px;
     border-radius: 10px;
 }
@@ -406,8 +406,8 @@ body {
 }
 
 .area-gallery img {
-    width: 280px;
-    height: 280px;
+    width: 240px;
+    height: 350px;
     margin: 20px 30px;
     transition: 0.5s ease-in-out;
     cursor: pointer;
