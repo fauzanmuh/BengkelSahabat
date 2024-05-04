@@ -2,4 +2,4 @@
 
 ## Screenshot Program
 - Halaman Utama
-![](https://github.com/fauzanmuh/BengkelSahabat/raw/master/assets/img/utama.PNG)
+![](https://github.com/fauzanmuh/BengkelSahabat/raw/master/assets/img/utama.png)
